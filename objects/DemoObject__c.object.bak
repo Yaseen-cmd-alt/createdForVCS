@@ -158,14 +158,6 @@
         <label>DemoObject Name</label>
         <type>Text</type>
     </nameField>
-	<nameField>
-        <label>Text1</label>
-        <type>Text</type>
-    </nameField>
-	<nameField>
-        <label>Text2</label>
-        <type>Text</type>
-    </nameField>
     <pluralLabel>DemoObjects</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
