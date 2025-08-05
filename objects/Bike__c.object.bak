@@ -6,7 +6,6 @@
         <label>Dealer</label>
         <referenceTo>Dealer__c</referenceTo>
         <relationshipLabel>Bikes</relationshipLabel>
-		
         <relationshipName>Bikes</relationshipName>
         <required>false</required>
         <trackTrending>false</trackTrending>
